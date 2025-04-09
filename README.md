@@ -55,9 +55,3 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 ---
 
-Let me know:
-- Are you using **Tkinter**, **Flask**, or a CLI for the interface?
-- Do you use a **database** like SQLite?
-- Want help creating a `requirements.txt` file?
-
-Happy to help you polish this even more!
